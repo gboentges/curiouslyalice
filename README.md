@@ -1,1 +1,3 @@
 # curiouslyalice
+Main page for www.curiouslyalice.com
+Work in progress...
